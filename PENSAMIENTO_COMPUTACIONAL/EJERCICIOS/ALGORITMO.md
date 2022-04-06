@@ -66,4 +66,3 @@ Mostrar ( resultado )
 
 Fin
 
-Operación ( 
