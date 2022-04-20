@@ -3,6 +3,19 @@
 
 * Programa que pida un número y diga si es positivo o negativo
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* ALGORITMO DE S,N
+* 1 INICIO 
+* 2 DECLARAR(LETRA)char
+* 3 MOSTRAR "ESCRIBE UNA LETRA"
+* 4 ASIGNAR LETRA
+* 5 SI LETRA=="s" o LETRA=="n"
+    ENTONCES ESCRIBE "CORRECTO"
+  * SINO 
+  * MOSTRAR "INCORRECTO"
+  * FINSI
+* 6 FIN
+* 
+* 
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
