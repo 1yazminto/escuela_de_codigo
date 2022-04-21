@@ -30,7 +30,8 @@
 *   MOSTRAR "MENOR"
 *   FINSI
 *   6 FIN
-*   
+*   ![imagen](https://user-images.githubusercontent.com/103079658/164534634-fd7bf9ee-01ec-4928-81d1-f0f106f1e06a.png)
+
 
 * 5 SI NUMERO 1==>NUMERO 2 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
