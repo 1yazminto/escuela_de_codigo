@@ -81,9 +81,21 @@
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variable
 * programa que nos pida seis veces  6 numeros cada uno imprimi la suma de dos
 * 1. inicio
-* 2. declara (numero)
-* 3. mostrar "ingresa un numero"
-* 4. asignar numero
-* 5. mostrar "
-* 3. 
-* 
+* 2. declara (numero, suma, resultado)
+* 3. para i= 6
+     mostrar "ingresa un numero"
+     asignar numero
+    suma=sum+num
+    mostrar (la suma "sum"
+    i++
+    fin para 
+* 9 fin
+ 
+* programa que nos permita solicitar un numero y me imprima la tabla del numero
+* 1 inicio
+* 2. declara (numero, tabla del numero)
+* 3. para i= num
+*    mostrar "ingresa un numero"
+*    asigna numero
+*    multiplica x 1
+*    mostrar (la multiplicacion "multiplica
