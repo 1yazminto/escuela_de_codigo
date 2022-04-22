@@ -17,6 +17,17 @@
 * 
 * 
 * Un programa que pida una letra y detecte si es una vocal. 
+* 1. INICIO
+* 2. DECLARAR (LETRA)
+* 3. MOSTRAR "ESCRIBRE LETRA"
+* 4. ASIGNAR LETRA
+* 5. SI LETRA==VOCAL
+* 6. ENTONCES ESCRIBE "CORRECTO"
+* SINO
+* MOSTRAR "INCORRECTO"
+* FINSI
+* 7.FIN
+* 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * ALGORITMO DE3 NUMEROS
 * 1 INICIO
@@ -67,4 +78,12 @@
 * 5 a mostrar " usted ha votado por el  partido rojo"
 * 6 b mostrar "verde"
 * 7 c mostrar "azul" 
-* Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
+* Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variable
+* programa que nos pida seis veces  6 numeros cada uno imprimi la suma de dos
+* 1. inicio
+* 2. declara (numero)
+* 3. mostrar "ingresa un numero"
+* 4. asignar numero
+* 5. mostrar "
+* 3. 
+* 
