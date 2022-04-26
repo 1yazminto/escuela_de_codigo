@@ -94,8 +94,8 @@
 * programa que nos permita solicitar un numero y me imprima la tabla del numero
 * 1 inicio
 * 2. declara (numero, tabla del numero)
-* 3. para i= num
-*    mostrar "ingresa un numero"
+* 3. mostrar "ingresa un numero"
+* 4. para i= num
 *    asigna numero
 *    multiplica x 1
-*    mostrar (la multiplicacion "multiplica
+*    mostrar (la multiplicacion "multiplica"
