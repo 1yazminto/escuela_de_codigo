@@ -99,3 +99,18 @@
 *    asigna numero
 *    multiplica x 1
 *    mostrar (la multiplicacion "multiplica"
+*    programa de 10 numeros que los negativos los suma y los positivo los promedia
+*    1. inicio
+*    2. Declara (numero positivo; numero negativo)
+*    3. Mostrar "ingresa un numero 
+*    4. Para i=num
+*       asignar numero
+*       suma=sum-num
+*       mostrar (la suma"sum")
+*       i++
+*       prom=prom/num
+*       mostrar (el promedio "prom")
+*       fin para
+*      5fin
+*             
+*       
