@@ -112,5 +112,10 @@
 *       mostrar (el promedio "prom")
 *       fin para
 *      5fin
-*             
+*             t![imagen](https://user-images.githubusercontent.com/103079658/165369419-e0f3cf93-4412-4f77-ae9d-ca55ea91020d.png)
+*             clase de while
+![imagen](https://user-images.githubusercontent.com/103079658/165369510-12c8c4fa-c8ad-4a31-86cd-4938e5a512cf.png) 
+
+digite precio si el importe de es correcto se suma es cero mande mensaje de incorrecto y sasque su total si es negativo se pare mande mensaje incorrecto
+
 *       
