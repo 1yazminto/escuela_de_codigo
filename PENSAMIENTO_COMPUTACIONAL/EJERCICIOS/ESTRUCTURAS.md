@@ -117,5 +117,18 @@
 ![imagen](https://user-images.githubusercontent.com/103079658/165369510-12c8c4fa-c8ad-4a31-86cd-4938e5a512cf.png) 
 
 digite precio si el importe de es correcto se suma es cero mande mensaje de incorrecto y sasque su total si es negativo se pare mande mensaje incorrecto
-
+1. 1.inicio
+2. 2. declara (precio)
+3. 3. mostrar "ingrese precio"
+4. 4. para i
+5. 3. mostrar 
+6. 
 *       
+digite calificacion menor a 
+1. 1.inicio
+2. 2. cal <-0
+3. 3. i<-
+4.  3. mayor7 <- 0
+5.  4. menor7 <- 0
+6.  5. 
+7. ![imagen](https://user-images.githubusercontent.com/103079658/165589115-be96d536-1f80-4b12-8fae-c9dd4b17aa1c.png)
