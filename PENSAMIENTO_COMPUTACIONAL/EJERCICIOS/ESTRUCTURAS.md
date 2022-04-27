@@ -132,3 +132,10 @@ digite calificacion menor a
 5.  4. menor7 <- 0
 6.  5. 
 7. ![imagen](https://user-images.githubusercontent.com/103079658/165589115-be96d536-1f80-4b12-8fae-c9dd4b17aa1c.png)
+8. de cuantas personas quieres saber el promedio de altura de 5
+9. ![imagen](https://user-images.githubusercontent.com/103079658/165595881-1be91a99-09f1-4409-8417-6db9f89732b9.png)
+10. algoritmocalificacion  que no sea 0 en do while
+11. 1.inicio
+12. 2.1<-0
+13. 3sum<-
+
