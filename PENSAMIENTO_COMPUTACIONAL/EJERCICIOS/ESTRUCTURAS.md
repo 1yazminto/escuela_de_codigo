@@ -134,8 +134,38 @@ digite calificacion menor a
 7. ![imagen](https://user-images.githubusercontent.com/103079658/165589115-be96d536-1f80-4b12-8fae-c9dd4b17aa1c.png)
 8. de cuantas personas quieres saber el promedio de altura de 5
 9. ![imagen](https://user-images.githubusercontent.com/103079658/165595881-1be91a99-09f1-4409-8417-6db9f89732b9.png)
-10. algoritmocalificacion  que no sea 0 en do while
-11. 1.inicio
-12. 2.1<-0
-13. 3sum<-
-
+10. algoritmo calificacion  que no sea 0 en do while
+11. 1. inicio
+12. 2. 1<-0
+13. 3. 
+algoritmo de precio
+1. 1.inicio
+2. 2.numer
+3. 3. repetir
+4. escribir "ingresa un mumero 0 a 999"
+5. leer numero
+6. si numer<=
+7. sino 
+8. escribir "over"
+9. si numer>0 y nume<= 999
+10. si num>0y numer<=9
+11. escribir "tu numero tiene 1 cifra"
+12. sino
+13. sinume>9 y numer <=tiene 3"
+14. mienytras num dif a 0
+15. 
+algoritmo de adivina un numero
+1. inicio
+2. 2.contador 10
+3. 3. numersec <-azar(100)+1
+4. 4.num
+5. 4. i<-10
+6. 5. mayor1<-10
+7.    escribir "tu numero es mayor a 10"
+8.    escribir "el numero no es correcto"
+9.    
+10.    
+11. 6. menor<-0
+12. 
+13. repetir
+14. 
